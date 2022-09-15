@@ -4,7 +4,7 @@ La Prova Finale di Reti Logiche dell'anno accademico 2021/2022 ha richiesto la c
 
 ## Specifica del progetto
 
-La specifica del Progetto di Reti Logiche 2021/2022 chiede di implementare un modulo hardware (descritto in VHDL) che si interfacci con una memoria e che segua la seguente [specifica](PFRL_Specifica_21_22_V3.pdf). In breve, si tratta di un componente che implementi la codifica convoluzionale 1/2, che trova applicazione nel settore delle Telecomunicazioni come sistema di cifratura.
+La specifica del Progetto di Reti Logiche 2021/2022 chiede di implementare un modulo hardware (descritto in VHDL) che si interfacci con una memoria e che segua la seguente [specifica](PFRL_Specifica_21_22_V3.pdf). In breve, si tratta di un componente che implementi la *codifica convoluzionale 1/2*, che trova applicazione nel settore delle Telecomunicazioni come sistema di cifratura.
 
 ## Documentazione
 
