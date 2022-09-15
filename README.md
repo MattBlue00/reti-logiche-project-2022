@@ -1,6 +1,6 @@
 # Prova Finale di Reti Logiche - AA 2021/2022
 
-La Prova Finale di Reti Logiche dell'anno accademico 2021/2022 ha richiesto la consegna di un unico file contenente il codice relativo alla descrizione del componente hardware da progettare e di una relazione che ne giustificasse le scelte implementative e ne mostrasse i risultati di simulazione.
+La Prova Finale di Reti Logiche dell'anno accademico 2021/2022 ha richiesto la consegna di un unico [file](project_reti_logiche.vhd) contenente il codice relativo alla descrizione del componente hardware da progettare e di una relazione che ne giustificasse le scelte implementative e ne mostrasse i risultati di simulazione.
 
 ## Specifica del progetto
 
